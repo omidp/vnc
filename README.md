@@ -22,6 +22,7 @@ mvn clean install
 * JDBC URL : jdbc:h2:~/newsdb
 * no username / password
 
+# Vert.x ROCKS!
 
 
 
