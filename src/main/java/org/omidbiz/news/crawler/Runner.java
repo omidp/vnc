@@ -13,7 +13,7 @@ import java.util.function.Consumer;
  */
 public class Runner {
 
-  private static final String UNIT_EXAMPLES_DIR = "vertee";
+  private static final String UNIT_EXAMPLES_DIR = "vnc";
   private static final String UNIT_EXAMPLES_JAVA_DIR = UNIT_EXAMPLES_DIR + "/src/main/java/";
   private static final String UNIT_EXAMPLES_JS_DIR = UNIT_EXAMPLES_DIR + "/src/main/js/";
   private static final String UNIT_EXAMPLES_GROOVY_DIR = UNIT_EXAMPLES_DIR + "/src/main/groovy/";
